@@ -27,11 +27,11 @@
                 <td>Hanging out with my friends</td>
             </tr>
         </table> 
-    <h1><i>My Favorite Places</i></h1>
+    <h1 style ="color: pink;><i>My Favorite Places</i></h1>
         <ol>
             <li>India with my family</li>
               <ul>
-                    <li>with my family</li?
+                <li>with my family</li>
                 <li>during march and april</li>
             <li>Montreal,Canada</li>
               <ul>
@@ -44,7 +44,7 @@
                 <li> during the summer</li>
               </ul>
         </ol>  
-    <h1><i> My Favorite Picture</i></h1>
+    <h1 style ="color: pink;><i> My Favorite Picture</i></h1>
       <img src = "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131616.jpg?crop=1.00xw:0.798xh;0,0.202xh&resize=768:*">
       <p>
         <h6>Source:SHUICHI SEGAWA.Gettyimages.com.EYEEM. ( <a href = "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131616.jpg?crop=1.00xw:0.798xh;0,0.202xh&resize=768:*">https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131616.jpg?crop=1.00xw:0.798xh;0,0.202xh&resize=768:*</a>)</h6>
